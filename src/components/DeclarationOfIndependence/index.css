@@ -7,3 +7,7 @@
 .DeclarationOfIndependence strong {
   font-size: 2em;
 }
+
+.DeclarationOfIndependence img {
+  width: 100%;
+}

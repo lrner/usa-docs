@@ -11,6 +11,8 @@ class App extends Component {
       <div className="App">
         <br />
         <div className='markdown-body' dangerouslySetInnerHTML={{__html: marked(file)}}></div>
+        <br /><br />
+        <img className="document" src="/img/Bill of Rights.jpg" alt="The Bill of Rights"/>
       </div>
     );
   }

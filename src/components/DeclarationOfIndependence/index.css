@@ -8,6 +8,12 @@
   font-size: 2em;
 }
 
-.DeclarationOfIndependence img {
-  width: 100%;
+.DeclarationOfIndependence .col-2 {
+  width: 16.666%;
+  float: left;
+}
+
+.DeclarationOfIndependence li {
+  list-style-type: none;
+
 }

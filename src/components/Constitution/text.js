@@ -1,15 +1,13 @@
 var constitution = `
 # The Constitution of the United States
 
-## Preamble
-<br />
-<br />
+<p class="no-indent">
 <img src="/img/wethepeople.jpg" width=400 /> of the United States, in order to form a more perfect
 Union, establish justice, insure domestic tranquility, provide for the
 common defense, promote the general welfare, and secure the blessings of
 liberty to ourselves and our posterity, do ordain and establish this
 Constitution for the United States of America.
-
+</p>
 
 ## ARTICLE I
 

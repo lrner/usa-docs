@@ -70,131 +70,133 @@ Nor have We been wanting in attentions to our Brittish brethren. We have warned 
 
 We, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States may of right do. And for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor.
 
-### Georgia
+<div class="col-2">
 
-* Button Gwinnett
-* Lyman Hall
-* George Walton
+<h3>Georgia</h3>
 
+<li>Button Gwinnett</li>
+<li>Lyman Hall</li>
+<li>George Walton</li>
 
+</div>
 
-### North Carolina
+<div class="col-2">
+<h3>North Carolina</h3>
 
-* William Hooper
-* Joseph Hewes
-* John Penn
-
-
-
-### South Carolina
-
-* Edward Rutledge
-* Thomas Heyward, Jr.
-* Thomas Lynch, Jr.
-* Arthur Middleton
+<li>William Hooper</li>
+<li>Joseph Hewes</li>
+<li>John Penn</li>
 
 
+<h3>South Carolina</h3>
 
-### Massachusetts
+<li>Edward Rutledge</li>
+<li>Thomas Heyward, Jr.</li>
+<li>Thomas Lynch, Jr.</li>
+<li>Arthur Middleton</li>
+</div>
 
-* John Hancock
+<div class="col-2">
+<h3>Massachusetts</h3>
 
-
-
-### Maryland
-
-* Samuel Chase
-* William Paca
-* Thomas Stone
-* Charles Carroll of Carrollton
+<li>John Hancock</li>
 
 
 
-### Virginia
+<h3>Maryland</h3>
 
-* George Wythe
-* Richard Henry Lee
-* Thomas Jefferson
-* Benjamin Harrison
-* Thomas Nelson, Jr.
-* Francis Lightfoot Lee
-* Carter Braxton
+<li>Samuel Chase</li>
+<li>William Paca</li>
+<li>Thomas Stone</li>
+<li>Charles Carroll of Carrollton</li>
 
 
 
-### Pennsylvania
+<h3>Virginia</h3>
 
-* Robert Morris
-* Benjamin Rush
-* Benjamin Franklin
-* John Morton
-* George Clymer
-* James Smith
-* George Taylor
-* James Wilson
-* George Ross
-* Delaware
-* Caesar Rodney
-* George Read
-* Thomas McKean
+<li>George Wythe</li>
+<li>Richard Henry Lee</li>
+<li>Thomas Jefferson</li>
+<li>Benjamin Harrison</li>
+<li>Thomas Nelson, Jr.</li>
+<li>Francis Lightfoot Lee</li>
+<li>Carter Braxton</li>
+</div>
 
+<div class="col-2">
+<h3>Pennsylvania</h3>
 
+<li>Robert Morris</li>
+<li>Benjamin Rush</li>
+<li>Benjamin Franklin</li>
+<li>John Morton</li>
+<li>George Clymer</li>
+<li>James Smith</li>
+<li>George Taylor</li>
+<li>James Wilson</li>
+<li>George Ross</li>
+<li>Delaware</li>
+<li>Caesar Rodney</li>
+<li>George Read</li>
+<li>Thomas McKean</li>
+</div>
 
-### New York
+<div class="col-2">
+<h3>New York</h3>
 
-* William Floyd
-* Philip Livingston
-* Francis Lewis
-* Lewis Morris
-
-
-
-### New Jersey
-
-* Richard Stockton
-* John Witherspoon
-* Francis Hopkinson
-* John Hart
-* Abraham Clark
-
-
-
-### New Hampshire
-
-* Josiah Bartlett
-* William Whipple
+<li>William Floyd</li>
+<li>Philip Livingston</li>
+<li>Francis Lewis</li>
+<li>Lewis Morris</li>
 
 
 
-### Massachusetts
+<h3>New Jersey</h3>
 
-* Samuel Adams
-* John Adams
-* Robert Treat Paine
-* Elbridge Gerry
+<li>Richard Stockton</li>
+<li>John Witherspoon</li>
+<li>Francis Hopkinson</li>
+<li>John Hart</li>
+<li>Abraham Clark</li>
+</div>
 
+<div class="col-2">
+<h3>New Hampshire</h3>
 
-
-### Rhode Island
-
-* Stephen Hopkins
-* William Ellery
-
-
-
-### Connecticut
-
-* Roger Sherman
-* Samuel Huntington
-* William Williams
-* Oliver Wolcott
+<li>Josiah Bartlett</li>
+<li>William Whipple</li>
 
 
 
-### New Hampshire
+<h3>Massachusetts</h3>
 
-* Matthew Thornton
+<li>Samuel Adams</li>
+<li>John Adams</li>
+<li>Robert Treat Paine</li>
+<li>Elbridge Gerry</li>
 
+
+
+<h3>Rhode Island</h3>
+
+<li>Stephen Hopkins</li>
+<li>William Ellery</li>
+
+
+
+<h3>Connecticut</h3>
+
+<li>Roger Sherman</li>
+<li>Samuel Huntington</li>
+<li>William Williams</li>
+<li>Oliver Wolcott</li>
+
+
+
+<h3>New Hampshire</h3>
+
+<li>Matthew Thornton</li>
+</div>
 `;
 
 export default text;

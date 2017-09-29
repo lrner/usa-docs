@@ -12,6 +12,7 @@ class App extends Component {
       <div className="App Confederation">
         <br />
         <div className='markdown-body' dangerouslySetInnerHTML={{__html: marked(file)}}></div>
+        <img className='document' src="/img/ArticlesOfConfederation.jpg" alt="The Articles of Confederation"/>
       </div>
     );
   }

@@ -16,7 +16,10 @@ class App extends Component {
         <br />
         <br />
         <br />
-        <img src="/img/United_States_Declaration_of_Independence.jpg" alt="The Declaration of Independence"/>
+        <br />
+        <br />
+        <br />
+        <img className="document" src="/img/United_States_Declaration_of_Independence.jpg" alt="The Declaration of Independence"/>
       </div>
     );
   }

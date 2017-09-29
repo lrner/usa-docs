@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+}
+
+.App, .About {
+  width: 1200px;
+  margin: auto;
+  display: block;
+  line-height: 1.4em;
+  padding-bottom: 4em;
+}
+
+.About {
+  width: 600px;
+}
+
+p {
+  text-indent: 2em;
+}
+
+p.section-paragraph {
+  text-indent: 0;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+strong {
+  font-size: 4em;
+}
+
+em {
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Tangerine', cursive;
+  font-size: 6em;
+}
+
+h2 {
+  margin-top: 2em;
+  font-size: 2.25em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

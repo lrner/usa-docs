@@ -1,0 +1,8 @@
+.Confederation p {
+    text-indent: 0;
+}
+
+.Confederation em {
+  display: inline-block;
+  width: 2em;
+}

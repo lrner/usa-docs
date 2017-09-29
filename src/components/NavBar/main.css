@@ -1,0 +1,29 @@
+.navbar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 2em;
+  background-color: #445;
+  width: 100%;
+  padding: .5em;
+}
+
+.navbar ul {
+  height: 2em;
+  margin-top: .5em;
+  padding-right: 4em;
+}
+
+.navbar ul li {
+  float: left;
+  list-style-type: none;
+}
+
+.navbar ul li a {
+  color: white;
+  margin-left: 20px;
+}
+
+.navbar ul li.list-right {
+  float: right;
+}
